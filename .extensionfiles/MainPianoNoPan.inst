@@ -1,0 +1,128 @@
+<region> sample=CHR_021.wav key=0 pitch_keycenter=21
+<region> sample=CHR_021.wav key=1 pitch_keycenter=21
+<region> sample=CHR_021.wav key=2 pitch_keycenter=21
+<region> sample=CHR_021.wav key=3 pitch_keycenter=21
+<region> sample=CHR_021.wav key=4 pitch_keycenter=21
+<region> sample=CHR_021.wav key=5 pitch_keycenter=21
+<region> sample=CHR_021.wav key=6 pitch_keycenter=21
+<region> sample=CHR_021.wav key=7 pitch_keycenter=21
+<region> sample=CHR_021.wav key=8 pitch_keycenter=21
+<region> sample=CHR_021.wav key=9 pitch_keycenter=21
+<region> sample=CHR_021.wav key=10 pitch_keycenter=21
+<region> sample=CHR_021.wav key=11 pitch_keycenter=21
+<region> sample=CHR_021.wav key=12 pitch_keycenter=21
+<region> sample=CHR_021.wav key=13 pitch_keycenter=21
+<region> sample=CHR_021.wav key=14 pitch_keycenter=21
+<region> sample=CHR_021.wav key=15 pitch_keycenter=21
+<region> sample=CHR_021.wav key=16 pitch_keycenter=21
+<region> sample=CHR_021.wav key=17 pitch_keycenter=21
+<region> sample=CHR_021.wav key=18 pitch_keycenter=21
+<region> sample=CHR_021.wav key=19 pitch_keycenter=21
+<region> sample=CHR_021.wav key=20 pitch_keycenter=21
+<region> sample=CHR_021.wav key=21
+<region> sample=CHR_022.wav key=22
+<region> sample=CHR_023.wav key=23
+<region> sample=CHR_024.wav key=24
+<region> sample=CHR_025.wav key=25
+<region> sample=CHR_026.wav key=26
+<region> sample=CHR_027.wav key=27
+<region> sample=CHR_028.wav key=28
+<region> sample=CHR_029.wav key=29
+<region> sample=CHR_030.wav key=30
+<region> sample=CHR_031.wav key=31
+<region> sample=CHR_032.wav key=32
+<region> sample=CHR_033.wav key=33
+<region> sample=CHR_034.wav key=34
+<region> sample=CHR_035.wav key=35
+<region> sample=CHR_036.wav key=36
+<region> sample=CHR_037.wav key=37
+<region> sample=CHR_038.wav key=38
+<region> sample=CHR_039.wav key=39
+<region> sample=CHR_040.wav key=40
+<region> sample=CHR_041.wav key=41
+<region> sample=CHR_042.wav key=42
+<region> sample=CHR_043.wav key=43
+<region> sample=CHR_044.wav key=44
+<region> sample=CHR_045.wav key=45
+<region> sample=CHR_046.wav key=46
+<region> sample=CHR_047.wav key=47
+<region> sample=CHR_048.wav key=48
+<region> sample=CHR_049.wav key=49
+<region> sample=CHR_050.wav key=50
+<region> sample=CHR_051.wav key=51
+<region> sample=CHR_052.wav key=52
+<region> sample=CHR_053.wav key=53
+<region> sample=CHR_054.wav key=54
+<region> sample=CHR_055.wav key=55
+<region> sample=CHR_056.wav key=56
+<region> sample=CHR_057.wav key=57
+<region> sample=CHR_058.wav key=58
+<region> sample=CHR_059.wav key=59
+<region> sample=CHR_060.wav key=60
+<region> sample=CHR_061.wav key=61
+<region> sample=CHR_062.wav key=62
+<region> sample=CHR_063.wav key=63
+<region> sample=CHR_064.wav key=64
+<region> sample=CHR_065.wav key=65
+<region> sample=CHR_066.wav key=66
+<region> sample=CHR_067.wav key=67
+<region> sample=CHR_068.wav key=68
+<region> sample=CHR_069.wav key=69
+<region> sample=CHR_070.wav key=70
+<region> sample=CHR_071.wav key=71
+<region> sample=CHR_072.wav key=72
+<region> sample=CHR_073.wav key=73
+<region> sample=CHR_074.wav key=74
+<region> sample=CHR_075.wav key=75
+<region> sample=CHR_076.wav key=76
+<region> sample=CHR_077.wav key=77
+<region> sample=CHR_078.wav key=78
+<region> sample=CHR_079.wav key=79
+<region> sample=CHR_080.wav key=80
+<region> sample=CHR_081.wav key=81
+<region> sample=CHR_082.wav key=82
+<region> sample=CHR_083.wav key=83
+<region> sample=CHR_084.wav key=84
+<region> sample=CHR_085.wav key=85
+<region> sample=CHR_086.wav key=86
+<region> sample=CHR_087.wav key=87
+<region> sample=CHR_088.wav key=88
+<region> sample=CHR_089.wav key=89
+<region> sample=CHR_090.wav key=90
+<region> sample=CHR_091.wav key=91
+<region> sample=CHR_092.wav key=92
+<region> sample=CHR_093.wav key=93
+<region> sample=CHR_094.wav key=94
+<region> sample=CHR_095.wav key=95
+<region> sample=CHR_096.wav key=96
+<region> sample=CHR_097.wav key=97
+<region> sample=CHR_098.wav key=98
+<region> sample=CHR_099.wav key=99
+<region> sample=CHR_100.wav key=100
+<region> sample=CHR_101.wav key=101
+<region> sample=CHR_102.wav key=102
+<region> sample=CHR_103.wav key=103
+<region> sample=CHR_104.wav key=104
+<region> sample=CHR_105.wav key=105
+<region> sample=CHR_106.wav key=106
+<region> sample=CHR_107.wav key=107
+<region> sample=CHR_108.wav key=108
+<region> sample=CHR_108.wav key=109 pitch_keycenter=108
+<region> sample=CHR_108.wav key=110 pitch_keycenter=108
+<region> sample=CHR_108.wav key=111 pitch_keycenter=108
+<region> sample=CHR_108.wav key=112 pitch_keycenter=108
+<region> sample=CHR_108.wav key=113 pitch_keycenter=108
+<region> sample=CHR_108.wav key=114 pitch_keycenter=108
+<region> sample=CHR_108.wav key=115 pitch_keycenter=108
+<region> sample=CHR_108.wav key=116 pitch_keycenter=108
+<region> sample=CHR_108.wav key=117 pitch_keycenter=108
+<region> sample=CHR_108.wav key=118 pitch_keycenter=108
+<region> sample=CHR_108.wav key=119 pitch_keycenter=108
+<region> sample=CHR_108.wav key=120 pitch_keycenter=108
+<region> sample=CHR_108.wav key=121 pitch_keycenter=108
+<region> sample=CHR_108.wav key=122 pitch_keycenter=108
+<region> sample=CHR_108.wav key=123 pitch_keycenter=108
+<region> sample=CHR_108.wav key=124 pitch_keycenter=108
+<region> sample=CHR_108.wav key=125 pitch_keycenter=108
+<region> sample=CHR_108.wav key=126 pitch_keycenter=108
+<region> sample=CHR_108.wav key=127 pitch_keycenter=108
